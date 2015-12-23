@@ -7,7 +7,6 @@ from django.http import HttpResponse
 from django.shortcuts import *
 from django.contrib.auth.decorators import login_required
 
-from moedjpack import qqweibo
 
 from moedjpack.moepad.mpconf import MPConf
 from moedjpack.moepad.weibowrapper import WeiboAuthInfoRedis

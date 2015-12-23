@@ -43,7 +43,7 @@ setup(
         'BeautifulSoup>=3.2.1',
         'redis>=2.8.0',
         'pytz>=2012d',
-        'Django>=1.5.1',
+        'Django==1.8',
         'pysqlite>=2.6.3',
         'requests>=2.2.1',
         'celery>=3.1.9',
